@@ -6,12 +6,7 @@
 import sys, os
 
 if sys.argv[1][-3:] == ".bs":
-	pass
-else:
-	print("This isn't bs!")
-	exit()
-
-with open(sys.argv[1]) as f:
+	with open(sys.argv[1]) as f:
 	temp = ""
 	counter = 0
 	chars = []
@@ -30,3 +25,6 @@ with open(sys.argv[1]) as f:
 		g.write(output)
 	print(os.popen("python temp.py" if os.name == 'nt' else "python3 temp.py").read(), end="")
 	os.system("del temp.py" if os.name == 'nt' else "rm temp.py")
+else:
+	print("This isn't bs!")
+	exit()
