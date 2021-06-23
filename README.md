@@ -5,7 +5,7 @@ Bin-snake executes Python code, written in binary.
 
 ## Running
 The easiest way to run a Bin-snake file is with a compiler. Note: a Bin-snake file must use the (.bs) file extension.
-In this repo, I have provided two similar Bin-snake compilers:
+In this repo, I have provided two similar Bin-snake compilers (see below). If you are on a Windows computer, you can also use the latest executable file, which can be found under [Releases].
 ```
   compile.py
   compile.js
