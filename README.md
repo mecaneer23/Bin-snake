@@ -16,4 +16,4 @@ The only difference in the files is the language used to create it.
 When you eventually give up, feel free to write a Bin-snake program in Python, and then write to Bin-snake using writer.py.
 
 ## Examples
-If you need some help getting started, take a look at the hello world programs in Examples/.
+If you need some help getting started, take a look at the hello world programs in [Examples](https://github.com/Mecaneer23/Bin-snake/tree/main/Examples).
