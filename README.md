@@ -13,7 +13,7 @@ In this repo, I have provided two similar Bin-snake compilers (see below). If yo
 The only difference in the files is the language used to create it. 
 
 ### Another way to run
-If compiling is too difficult, but you have Python installed on your system, feel free to use run.py, which compiles and runs Bin-snake in one file.
+If compiling is too difficult, but you have Python installed on your system, feel free to use [runner.py](https://github.com/Mecaneer23/Bin-snake/), which compiles and runs Bin-snake in one file.
 
 ## Cheating
 When you eventually give up, feel free to write a Bin-snake program in Python, and then write to Bin-snake using writer.py.
