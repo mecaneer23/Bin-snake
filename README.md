@@ -3,7 +3,7 @@ Bin-snake is an [Esolang](https://esolangs.org/wiki/Main_Page) - in short, it is
 
 Bin-snake executes [Python](https://www.python.org/) code, written in [binary](https://en.wikipedia.org/wiki/Binary_number). 
 
-**IMPORTANT**
+**IMPORTANT** 
 If you are an absolute beginner, see [HELP.md](https://github.com/Mecaneer23/Bin-snake/blob/main/HELP.md)
 
 ## Running
