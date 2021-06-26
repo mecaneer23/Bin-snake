@@ -4,7 +4,7 @@ Bin-snake is an [Esolang](https://esolangs.org/wiki/Main_Page) - in short, it is
 Bin-snake executes [Python](https://www.python.org/) code, written in [binary](https://en.wikipedia.org/wiki/Binary_number). 
 
 **IMPORTANT**
-If you are an absolute beginner, see [HELP.md](https://github.com/Mecaneer23/Bin-snake/HELP.md)
+If you are an absolute beginner, see [HELP.md](https://github.com/Mecaneer23/Bin-snake/blob/main/HELP.md)
 
 ## Running
 The easiest way to run a Bin-snake file is with a runner (or compiler/interpreter - I am using the terms loosely). Note: a Bin-snake file must use the (.bs) file extension.
