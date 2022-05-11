@@ -1,8 +1,8 @@
 .vscode/
-Binaries/
-Cheating/
-CompileToPython/
-Deprecated/
-Examples/
-GUI/
-temporary/
+Binaries/**
+Cheating/**
+CompileToPython/**
+Deprecated/**
+Examples/**
+GUI/**
+temporary/**
