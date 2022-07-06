@@ -18,7 +18,7 @@ def compile(text, run=False):
 
 
 def add_zero(binary):
-    return add_zero(f"0{binary}") if len(binary) < 8 else binary
+    return '0'*(8 - len(binary)) + binary
 
 
 def main():
